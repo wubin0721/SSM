@@ -3,7 +3,6 @@ package com.example.ideasprinboot;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 /*
 * @MapperScan 告诉MyBatis扫描哪个包下面的所有接口
